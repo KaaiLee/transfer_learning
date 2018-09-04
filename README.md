@@ -1,0 +1,2 @@
+# transfer_learning
+finetune的实战技巧，主要使用框架keras和tensorflow
